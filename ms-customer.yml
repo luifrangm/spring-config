@@ -1,7 +1,4 @@
 server:
   port: 8040
-environment:
-  message: Hola mundo desde ms-customer!
 variables:
   prueba: esta es una prueba
-  
