@@ -1,2 +1,5 @@
 server:
   port: 8040
+environmet:
+    message: Hola mundo!
+    
