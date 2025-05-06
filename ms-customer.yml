@@ -1,5 +1,4 @@
 server:
   port: 8040
-environmet:
-    message: Hola mundo desde ms-customer!
-    
+environment:
+message: Hola mundo desde ms-customer!
