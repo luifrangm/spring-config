@@ -1,0 +1,3 @@
+application:
+  environment:
+    message: ms-products. Este valor esta versionado en github y administrado por un config server.
