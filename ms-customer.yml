@@ -1,4 +1,4 @@
 application:
   environment:
-    message: Mensaje desde ms-customer. Este valor esta versionado en github V3
+    message: Mensaje desde ms-customer. Este valor esta versionado en github V4
     saludo: Hola mundo.
